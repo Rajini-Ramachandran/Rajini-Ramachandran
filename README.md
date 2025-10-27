@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajini Shankar Ramachandran</h1>
 <h3 align="center">Frontend Fanatic 🇮🇳 | Code with passion, build with precision.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajini-ramachandran&label=Profile%20views&color=0e75b6&style=flat" alt="rajini-ramachandran" /> </p>
+<p align="left"> <img src="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajini-ramachandran" alt="rajini-ramachandran" /></a> </p>
 
